@@ -1,0 +1,5 @@
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingTest\bin\SelfHostingTest.dll.config
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingTest\bin\SelfHostingTest.dll
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingTest\bin\SelfHostingTest.pdb
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingTest\obj\Debug\SelfHostingTest.dll
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingTest\obj\Debug\SelfHostingTest.pdb

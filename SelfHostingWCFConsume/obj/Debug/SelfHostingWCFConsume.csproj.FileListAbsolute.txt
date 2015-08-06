@@ -1,0 +1,8 @@
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingWCFConsume\bin\Debug\SelfHostingWCFConsume.exe.config
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingWCFConsume\obj\Debug\SelfHostingWCFConsume.csprojResolveAssemblyReference.cache
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingWCFConsume\bin\Debug\SelfHostingWCFConsume.exe
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingWCFConsume\bin\Debug\SelfHostingWCFConsume.pdb
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingWCFConsume\bin\Debug\SelfHostingTest.dll
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingWCFConsume\bin\Debug\SelfHostingTest.pdb
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingWCFConsume\obj\Debug\SelfHostingWCFConsume.exe
+C:\Others\Others\WCFSamples\SelfHosting1\SelfHostingWCFConsume\obj\Debug\SelfHostingWCFConsume.pdb
